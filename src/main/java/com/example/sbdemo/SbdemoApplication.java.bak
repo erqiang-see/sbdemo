@@ -8,7 +8,11 @@ public class SbdemoApplication {
 
 	public static void main(String[] args) {
 	    System.out.println("hello...");
+<<<<<<< HEAD
 			SpringApplication.run(SbdemoApplication.class, args);
+=======
+		SpringApplication.run(SbdemoApplication.class, args);
+>>>>>>> 1153a647d17f27e21e25a706148f28c0bb37a154
 	}
 
 }
