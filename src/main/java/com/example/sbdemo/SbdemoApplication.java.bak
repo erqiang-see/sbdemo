@@ -7,11 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SbdemoApplication {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		System.out.println("hello");
-=======
 	    System.out.println("hello...");
->>>>>>> 875a6b2a8f23c8dd666d5eb8b4cf75cac613b0f4
 		SpringApplication.run(SbdemoApplication.class, args);
 	}
 
